@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Oliver666Young/ChatGPT-Web/main/CROPO%20NETWORK%20LOGO.png?token=GHSAT0AAAAAACHHMVUZFZ3TLWRRJKJPNRCGZLQPQSA',
+      avatar: 'https://raw.githubusercontent.com/Oliver666Young/ChatGPT-Web/main/CROPO%20NETWORK%20LOGO.png',
       name: '众智科技',
       description: '领先的AI定制解决方案提供商',
     },
