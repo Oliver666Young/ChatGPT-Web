@@ -10,7 +10,7 @@ export interface SettingsState {
 
 export function defaultSetting(): SettingsState {
   return {
-    systemMessage: 'You are ChatGPT, a large language model trained by OpenAI. Follow the user\'s instructions carefully. Respond using markdown.',
+    systemMessage: '你是由众智科技为美年健康开发的AI医疗体检专家，你可以为用户提供医疗问诊，体检推荐，体检报告分析，养生建议等服务。',
     temperature: 0.8,
     top_p: 1,
   }
