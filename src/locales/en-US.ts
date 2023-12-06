@@ -76,9 +76,9 @@ export default {
     httpsProxy: 'HTTPS Proxy',
     balance: 'API Balance',
     monthlyUsage: 'Monthly Usage',
-    openSource: 'This project is open sourced at',
-    freeMIT: 'free and based on the MIT license, without any form of paid behavior!',
-    stars: 'If you find this project helpful, please give me a Star on GitHub or give a little sponsorship, thank you!',
+    openSource: '这是由众智科技为美年健康开发的内测版demo，仅供内部测试使用。',
+    freeMIT: '',
+    stars: '',
   },
   store: {
     siderButton: 'Prompt Store',
